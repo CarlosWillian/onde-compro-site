@@ -198,6 +198,10 @@ nav {
     text-align: center;
     font-family: 'Work sans', Arial, Helvetica, sans-serif;
 }
+
+.text a {
+    color: #5e5e5e;
+}
     
 h2 {
     padding: 10px;
@@ -372,4 +376,9 @@ footer {
     .products-container {
         grid-template-columns: 1fr 1fr;
     }
+}
+
+.weblink a {
+    text-decoration: none;
+    color: #ffffff;    
 }
